@@ -1,6 +1,6 @@
 class Dog
-  def initialize(name = nil)
-    @name = name
+  def initialize(name = "mut")
+    @name= (name
   end
 
 
